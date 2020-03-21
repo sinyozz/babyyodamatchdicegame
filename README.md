@@ -1,7 +1,7 @@
 # babyyodamatchdicegame
 
 A new Flutter application.
-<div style="width:100%;height:0;padding-bottom:178%;position:relative;"><iframe src="https://giphy.com/embed/kgCjVWbjLWaW5gHf7S" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/flutter-flutterapp-kgCjVWbjLWaW5gHf7S">via GIPHY</a></p>
+<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:177.69%;position:relative;"><iframe width="260" height="462" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/3tgbny"></iframe></div><p><a href="https://imgflip.com/gif/3tgbny">via Imgflip</a></p></div>
 
 ## Getting Started
 
