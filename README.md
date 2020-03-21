@@ -1,4 +1,6 @@
-# babyyodamatchdicegame
+# Match the Baby!
+Welcome here I share a dice game app where you have to match the baby Yoda pictures :) 
+enjoy and have fun!!!
 
 A new Flutter application.
 ![](https://github.com/sinyozz/babyyodamatchdicegame/blob/master/gif/Flutter%20GIF-downsized.gif)
